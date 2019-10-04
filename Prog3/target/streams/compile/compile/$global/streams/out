@@ -1,0 +1,38 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Employee.java:1:1: package jdk.javadoc.internal.doclets.formats.html is not visible[0m
+[0m[[0m[31merror[0m] [0m[0m  (package jdk.javadoc.internal.doclets.formats.html is declared in module jdk.javadoc, which does not export it)[0m
+[0m[[0m[31merror[0m] [0m[0mimport jdk.javadoc.internal.doclets.formats.html.SourceToHTMLConverter;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:16:1: incompatible types: java.io.FileInputStream cannot be converted to java.io.Reader[0m
+[0m[[0m[31merror[0m] [0m[0m    BufferedReader br = new BufferedReader(f);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:18:1: incompatible types: boolean cannot be converted to java.lang.String[0m
+[0m[[0m[31merror[0m] [0m[0m    while (line = br.readLine() != null){[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:18:1: incompatible types: java.lang.String cannot be converted to boolean[0m
+[0m[[0m[31merror[0m] [0m[0m    while (line = br.readLine() != null){[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method factory(java.lang.String,java.lang.String,java.lang.String,int,int,double,double)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog3[0m
+[0m[[0m[31merror[0m] [0m[0m        Employee e = factory(fname, lname, ssn, type, hours, wage, salary);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:33:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method employees(int)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog3[0m
+[0m[[0m[31merror[0m] [0m[0m        Employee e = employees(i);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:34:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable getFname[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable e of type Employee[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.print(e.getFname + " ");[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:35:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable getLname[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable e of type Employee[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.print(e.getLname);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:36:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable getSsn[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable e of type Employee[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.print(e.getSsn);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:37:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable getType[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable e of type Employee[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.print(e.getType);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog3/src/main/java/Prog3.java:38:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable totalPay[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable e of type Employee[0m
+[0m[[0m[31merror[0m] [0m[0m        System.out.print(e.totalPay);[0m
+[0m[[0m[0minfo[0m] [0m[0mSome messages have been simplified; recompile with -Xdiags:verbose to get full output[0m

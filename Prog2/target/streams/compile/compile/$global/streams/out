@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog2/src/main/java/Prog2.java:40:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method printfln(java.lang.String,double)[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable out of type java.io.PrintStream[0m
+[0m[[0m[31merror[0m] [0m[0m            System.out.printfln("%.2f", temp.firstPayment());[0m

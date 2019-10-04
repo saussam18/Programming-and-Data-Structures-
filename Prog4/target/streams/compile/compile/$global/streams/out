@@ -1,0 +1,52 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:64:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m    public static void playHand(Player player) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:11:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Dealer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m    Dealer dealer = new Dealer("Danny the Dealer");[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:11:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Dealer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m    Dealer dealer = new Dealer("Danny the Dealer");[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:12:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m    List<Player> players = new ArrayList<>();[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:25:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AlwaysStayPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m    players.add(new AlwaysStayPlayer("Always Stay Alan"));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:26:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class AlwaysStayPlayer[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m    players.add(new AlwaysStayPlayer("Always Stay Alice"));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:27:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HitTil21Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m    players.add(new HitTil21Player("Hit Til 21 Harry"));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:28:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class HitTil21Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m    players.add(new HitTil21Player("Hit Til 21 Helen"));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:31:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        for (Player player : players) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:44:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        for (Player player : players) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:51:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        for (Player player : players) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:57:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        for (Player player : players) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/samsausville/Desktop/Prog4/src/main/java/Prog4.java:65:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Player[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class Prog4[0m
+[0m[[0m[31merror[0m] [0m[0m        while (player.nextAction() == Player.HIT) {[0m

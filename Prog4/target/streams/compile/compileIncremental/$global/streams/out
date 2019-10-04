@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/samsausville/Desktop/School/Prog4/src/main/java/Dealer.java, /Users/samsausville/Desktop/School/Prog4/src/main/java/Card.java, /Users/samsausville/Desktop/School/Prog4/src/main/java/Hand.java, /Users/samsausville/Desktop/School/Prog4/src/main/java/HitTil21Player.java, /Users/samsausville/Desktop/School/Prog4/src/main/java/Player.java, /Users/samsausville/Desktop/School/Prog4/src/main/java/AlwaysStayPlayer.java, /Users/samsausville/Desktop/School/Prog4/src/main/java/Deck.java, /Users/samsausville/Desktop/School/Prog4/src/main/java/RealPlayer.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 9 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 9 Java sources to /Users/samsausville/Desktop/School/Prog4/target/scala-2.10/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@e97a29d directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.576563041 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.028122286 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.611840235 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

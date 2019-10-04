@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/Users/samsausville/Desktop/Prog7/src/main/java/InFixToBinaryTreeConverter.java)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Java source to /Users/samsausville/Desktop/Prog7/target/scala-2.10/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@745e8998 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.921357352 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.019844799 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.955744183 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m

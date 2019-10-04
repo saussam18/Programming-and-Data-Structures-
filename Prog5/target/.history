@@ -1,0 +1,28 @@
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/2l/4p7gqdqj125bgwt6lzn5rh400000gn/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/samsausville/Library/Application Support/IdeaIC2018.2/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+run feline bat 1
+run g g 1
+run z z 1
+run feline bat 1
+run deer bat 1
+run canine dog 1
+run canine bag 1
+run canine fog 1
+run canine fog 2
+run feline dog 1
+run canine dog 1
+run feline bat 1
+run
+run feline
+run
+run feline bat 1
+change refridgeration 3
+run change refridgeration 3
+>> run change refrigeration 3
+run change refrigeration 3
+zany astronomical 3
+run zany astronomical 3
+chance taxability 4
+run chance taxability 4
+run change refrigeration 3
+run zany astronomical 3
